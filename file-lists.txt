@@ -1,0 +1,129 @@
+total 8
+drwxr-xr-x. 24 root          root              2560 Jun 22 08:51 .
+drwxr-xr-x. 17 root          root              3488 Jun 16 16:52 ..
+----------.  1 root          root                 0 Jun 22 08:50 .coldboot_done
+drwx--x--x.  2 root          root              1460 Jun 22 08:50 __properties__
+crw-rw-r--.  1 aid_system    aid_system    247,   0 Jun 22 08:50 acm
+crw-rw-r--.  1 aid_system    aid_radio      10,  91 Jun 22 08:50 alarm
+crw-rw----.  1 aid_radio     aid_system     10,  61 Jun 22 08:50 ar
+crw-rw-rw-.  1 root          root           10,  92 Jun 22 08:50 ashmem
+crw-------.  1 root          root          238,   0 Jun 22 08:50 bastet
+crw-rw-rw-.  1 root          root           10,  85 Jun 22 08:50 binder
+drwxr-xr-x.  2 root          root                40 Jun 22 08:50 blkio
+drwxr-xr-x.  5 root          root              1620 Jun 22 08:50 block
+drwxr-xr-x.  3 root          root                60 Jun 22 08:50 bus
+crw-------.  1 root          root           10,  63 Jun 22 08:50 cahub
+crw-rw----.  1 aid_system    aid_system     10,  58 Jun 22 08:50 chrKmsgPlat
+crw-------.  1 root          root            5,   1 Jun 22 08:50 console
+crw-rw----.  1 aid_system    aid_system     10,  74 Jun 22 08:50 cpu_dma_latency
+drwxr-xr-x.  2 root          root                40 Jun 22 08:50 cpuctl
+drwxr-xr-x.  2 root          root                40 Jun 22 08:50 cpuset
+crw-------.  1 root          root           10, 236 Jun 22 08:50 device-mapper
+crw-rw----.  1 aid_system             1081  10, 254 Jun 22 08:50 dsm
+crw-rw----.  1 root          root           10,  67 Jun 22 08:50 dubai
+crw-------.  1 root          root          249,   0 Jun 22 08:50 efuse
+-rw-r--r--.  1 aid_logd      aid_logd            24 Jun 22 08:50 event-log-tags
+drwxrwxr-x.  2 root          root                60 Jun 22 08:50 f2fs-tools
+lrwxrwxrwx.  1 root          root                13 Jun 22 08:50 fd -> /proc/self/fd
+crw-rw----.  1 aid_system    aid_system     10,  78 Jun 22 08:50 fingerprinthub
+crw-rw----.  1 aid_radio     aid_system     10,  62 Jun 22 08:50 flp
+drwxr-xr-x.  2 root          root                40 Jun 22 08:50 frz
+drwxrwx---.  2 root          aid_system          40 Jun 22 08:51 fscklogs
+crw-rw-rw-.  1 root          root            1,   7 Jun 22 08:50 full
+crw-------.  1 root          root           10, 229 Jun 22 08:50 fuse
+drwxr-xr-x.  2 root          root               100 Jun 22 08:50 graphics
+crwxrwx---.  1 root          aid_audio      10,  94 Jun 22 08:50 hifi_misc
+cr--------.  1 root          root           10,  80 Jun 22 08:50 hisi_teelog
+crw-rw----.  1 aid_system    aid_system     10,  76 Jun 22 08:50 hw_bfm
+crw-r-----.  1 root          aid_system     10,  54 Jun 22 08:50 hwbfgdbg
+crw-rw-rw-.  1 root          root           10,  84 Jun 22 08:50 hwbinder
+crw-rw----.  1 aid_bluetooth aid_bluetooth  10,  57 Jun 22 08:50 hwbt
+crw-rw----.  1 aid_system    aid_system     10,  56 Jun 22 08:50 hwfm
+crw-rw----.  1 aid_system    aid_system     10,  55 Jun 22 08:50 hwgnss
+crw-rw--w-.  1 root          aid_system     10,  87 Jun 22 08:50 hwlog_dubai
+crw-rw--w-.  1 root          aid_log        10,  89 Jun 22 08:50 hwlog_exception
+crw-rw--w-.  1 root          aid_system     10,  88 Jun 22 08:50 hwlog_jank
+crw-rw----.  1 aid_logd      aid_system     10,  77 Jun 22 08:50 hwlog_switch
+crw-rw----.  1 aid_system    aid_system     10,  86 Jun 22 08:50 hwlog_tag
+crw-rw----.  1 aid_system    aid_camera    239,   0 Jun 22 08:50 imgsysbrg_vdec0
+drwxr-xr-x.  2 root          root               160 Jun 22 08:50 input
+drwxr-xr-x.  2 root          root                40 Jun 22 08:50 iolimit
+crw-rw-r--.  1 aid_system    aid_system     10,  95 Jun 22 08:50 ion
+crw-------.  1 root          root           10,  81 Jun 22 08:50 isp_log
+crw-------.  1 root          root            1,  11 Jun 22 08:50 kmsg
+drwxr-xr-x.  2 root          root                60 Jun 22 08:50 log
+crw-------.  1 root          root           10, 237 Jun 22 08:50 loop-control
+crw-------.  1 root          root          237,   0 Jun 22 08:50 madapt
+crw-rw-rw-.  1 aid_system    aid_system     10,  93 Jun 22 08:50 mali0
+crw-rw----.  1 aid_system    aid_camera    252,   0 Jun 22 08:50 media0
+crw-rw----.  1 aid_system    aid_camera    252,   1 Jun 22 08:50 media1
+crw-rw----.  1 aid_system    aid_camera    252,   2 Jun 22 08:50 media2
+crw-rw----.  1 aid_system    aid_camera    252,   3 Jun 22 08:50 media3
+crw-rw----.  1 aid_system    aid_camera    252,   4 Jun 22 08:50 media4
+drwx------.  3 root          aid_system          60 Jun 22 08:50 memcg
+crw-------.  1 root          root           10,  71 Jun 22 08:50 memory_bandwidth
+crw-rw----.  1 aid_system    aid_system     10,  70 Jun 22 08:50 memory_latency
+crw-rw----.  1 aid_system    aid_system     10,  69 Jun 22 08:50 memory_throughput
+crw-rw----.  1 aid_system    aid_system     10,  68 Jun 22 08:50 memory_throughput_up_threshold
+crw-rw----.  1 aid_system    aid_system     10,  64 Jun 22 08:50 motionhub
+crw-rw----.  1 root          aid_mtp        10,  60 Jun 22 08:50 mtp_usb
+drwxr-xr-x.  2 root          root                60 Jun 22 08:51 net
+crw-------.  1 root          root           10,  73 Jun 22 08:50 network_latency
+crw-------.  1 root          root           10,  72 Jun 22 08:50 network_throughput
+crw-------.  1 root          root          243,   0 Jun 22 08:50 node
+crw-rw-rw-.  1 root          root            1,   3 Jun 22 08:50 null
+crwxrwx---.  1 root          aid_system    246,   0 Jun 22 08:50 nve0
+crw-------.  1          1090          1090 236,   0 Jun 22 08:50 oases
+drwxrwxr-x.  2 root          aid_system          40 Jun 22 08:52 oinv
+crw-------.  1 root          root          242,   0 Jun 22 08:50 ois
+c-w--w--w-.  1 root          aid_log       254,   0 Jun 22 08:50 pmsg0
+crw-rw----.  1 aid_radio     aid_vpn       108,   0 Jun 22 08:50 ppp
+crw-------.  1 root          root           10,   1 Jun 22 08:50 psaux
+crw-rw-rw-.  1 root          root            5,   2 Jun 22 09:03 ptmx
+drwxr-xr-x.  2 root          root                 0 Jan  1  1970 pts
+crw-rw-rw-.  1 root          root            1,   8 Jun 22 08:50 random
+crw-r-----.  1 aid_system    aid_system    253,   0 Jun 22 08:50 rtc0
+crw-rw----.  1 aid_system    aid_system     10,  65 Jun 22 08:50 sensorhub
+drwxrwxrwt.  2 root          root                40 Jun 22 08:51 shm
+crw-rw----.  1 aid_media     aid_media      10,  66 Jun 22 08:50 smartpakit
+drwxr-xr-x.  2 root          root               200 Jun 22 08:50 snd
+drwxr-xr-x.  2 root          root               820 Jun 22 08:51 socket
+lrwxrwxrwx.  1 root          root                15 Jun 22 08:51 stderr -> /proc/self/fd/2
+lrwxrwxrwx.  1 root          root                15 Jun 22 08:51 stdin -> /proc/self/fd/0
+lrwxrwxrwx.  1 root          root                15 Jun 22 08:51 stdout -> /proc/self/fd/1
+drwxr-xr-x.  2 root          root                40 Jun 22 08:50 stune
+crw-------.  1 root          root           10,  90 Jun 22 08:50 sw_sync
+crw-------.  1 root          root          250,   0 Jun 22 08:50 tc_ns_client
+crw-rw-rw-.  1 root          root            5,   0 Jun 22 08:50 tty
+lrwxrwxrwx.  1 root          root                 9 Jun 22 08:51 tty0 -> /dev/null
+crw-rw----.  1 aid_media     aid_media     204,  64 Jun 22 08:50 ttyAMA0
+crw-------.  1 root          root          204,  66 Jun 22 08:50 ttyAMA2
+crw-rw----.  1 aid_system    aid_system    204,  67 Jun 22 08:50 ttyAMA3
+crw-rw----.  1 aid_system    aid_system    204,  68 Jun 22 08:50 ttyAMA4
+crw-------.  1 root          root          204,  70 Jun 22 08:50 ttyAMA6
+crw-------.  1 root          root          244,   0 Jun 22 08:50 ttyHwGS0
+crw-------.  1 root          root          244,   1 Jun 22 08:50 ttyHwGS1
+crw-------.  1 root          root          244,   2 Jun 22 08:50 ttyHwGS2
+crw-rw----.  1 aid_system    aid_vpn        10, 200 Jun 22 08:50 tun
+crw-rw----.  1 aid_system    aid_bluetooth  10, 239 Jun 22 08:50 uhid
+crw-rw----.  1 aid_system    aid_bluetooth  10, 223 Jun 22 08:50 uinput
+crw-rw-rw-.  1 root          root            1,   9 Jun 22 08:50 urandom
+drwxrwx---.  4 aid_shell     aid_shell           80 Jun 22 08:50 usb-ffs
+crw-rw----.  1 root          aid_usb        10,  59 Jun 22 08:50 usb_accessory
+crw-rw----.  1 aid_system    aid_camera     81,   1 Jun 22 08:50 v4l-subdev0
+crw-rw----.  1 aid_system    aid_camera     81,   2 Jun 22 08:50 v4l-subdev1
+crw-rw----.  1 aid_system    aid_camera     81,   4 Jun 22 08:50 v4l-subdev2
+crw-rw----.  1 aid_system    aid_camera     81,   6 Jun 22 08:50 v4l-subdev3
+crw-rw----.  1 aid_system    aid_camera     81,   8 Jun 22 08:50 v4l-subdev4
+crw-rw----.  1 aid_system    aid_camera     81,   0 Jun 22 08:50 video0
+crw-rw----.  1 aid_system    aid_camera     81,   3 Jun 22 08:50 video1
+crw-rw----.  1 aid_system    aid_camera     81,   5 Jun 22 08:50 video2
+crw-rw----.  1 aid_system    aid_camera     81,   7 Jun 22 08:50 video3
+crw-rw----.  1 aid_system    aid_camera     81,   9 Jun 22 08:50 video4
+crw-rw-rw-.  1 root          root           10,  83 Jun 22 08:50 vndbinder
+crw-rw----.  1 root          aid_audio      10,  82 Jun 22 08:50 voice_proxy_vowifi
+crw-------.  1 root          root           10, 130 Jun 22 08:50 watchdog
+crw-------.  1 root          root          251,   0 Jun 22 08:50 watchdog0
+prw-r-----.  1 root          adm                  0 Jun 22 08:51 xconsole
+crw-r--r--.  1 root          root           10,  75 Jun 22 08:50 xt_qtaguid
+crw-rw-rw-.  1 root          root            1,   5 Jun 22 08:50 zero
